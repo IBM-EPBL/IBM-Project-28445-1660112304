@@ -7,9 +7,9 @@ Project-Name : Web Phishing Detection
 ---
 # Team Members :
 ## Team Leader : Akash Mukherjee
-Team Member 1 : Abhinash Kumar
-Team Member 2 : Abdul Qadir
-Team Member 3 : Harrsh Kumar
+1. Team Member 1 : Abhinash Kumar
+2. Team Member 2 : Abdul Qadir
+3. Team Member 3 : Harrsh Kumar
 
 ---
 
