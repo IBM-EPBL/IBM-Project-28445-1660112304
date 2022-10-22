@@ -21,9 +21,9 @@
 
 # Team members:
 <li> Akash Mukherjee-Team Leader </li>
-<li> Abhinash Kumar </li>
-<li>Abdul Qadir</li>
-<li>Harsh Kumar</li>
+<li> Abhinash Kumar-Team Member-1 </li>
+<li>Abdul Qadir-Team Member-2</li>
+<li>Harsh Kumar-Team Member-3</li>
 
 
 # Technical Architecture:
