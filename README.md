@@ -1,5 +1,7 @@
 # IBM-Project-28445-1660112304 🤖
-![image](https://user-images.githubusercontent.com/101965561/194740878-065409fc-76d1-4d84-964c-cb5ffa41c421.png)
+<p align="center">
+  <img src="https://www.aalpha.net/wp-content/uploads/2021/02/Automated-Machine-Learning.gif " width="550" hight="300" title="Phishing Attack"]
+</p>
 
 # Web Phishing Detection
 <p> Phishing is a web-based criminal act. Phishing sites lure sensitive information from naive online users by camouflaging themselves as trustworthy entities. Web Phishing is considered an annoying threat in the field of electronic commerce.</p>
