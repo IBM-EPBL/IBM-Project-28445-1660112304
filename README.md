@@ -31,3 +31,5 @@
 # Technical Architecture:
 ![image](https://user-images.githubusercontent.com/101965561/194741464-bed55e99-318e-4313-96cf-c24e33c6419a.png)
 
+<p align="center"><img src="https://www.promptcloud.com/wp-content/uploads/2015/01/ibm-logo.jpg" width="500px">
+
